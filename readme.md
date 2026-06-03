@@ -596,5 +596,4 @@ Lalu jalankan file baru lab8_vuejs di http://localhost/lab8_vuejs/#/
 
 ![alt text](image-2.png)
 
-![alt text](image-3.png)#   L a b 7 W e b _ v u e j s  
- 
+![alt text](image-3.png)
