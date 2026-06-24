@@ -1,3 +1,4 @@
+# Pratikum 11-14 Folder LAB8_VUEJS
 # Praktikum 11: VueJS
 ## Struktur Direktory
 ```
@@ -320,7 +321,7 @@ form button {
 
 ### Buka http://localhost/lab8_vuejs/
 
-![alt text](image.png)
+![alt text](image/image.png)
 
 # Praktikum	12:	VueJS	Komponen	dan	Routing	(Single	Page Application)
 ```
@@ -592,11 +593,11 @@ app.mount('#app');
 Jalankan file lama di http://localhost:8080/
 Lalu jalankan file baru lab8_vuejs di http://localhost/lab8_vuejs/#/
 ```
-![alt text](image-1.png)
+![alt text](image/image-1.png)
 
-![alt text](image-2.png)
+![alt text](image/image-2.png)
 
-![alt text](image-3.png)
+![alt text](image/image-3.png)
 
 # Pratikum 12 :VueJS	Autentikasi	dan	Navigation	Guards	(SPA Security)
 ## Buat berkas controller baru di proyek backend Anda pada direktori app/Controllers/Api/Auth.php
@@ -771,11 +772,11 @@ const Login = {
 ## pengujian skenario kontrol keamanan
 ### Skenario A (Kondisi Terkunci)
 
-![alt text](image-4.png)
+![alt text](image/image-4.png)
 
 ### Skenario B (Kondisi Login Terautentikasi)
 
-![alt text](image-5.png)
+![alt text](image/image-5.png)
 
 # Praktikum 14: Keamanan API, Autentikasi Token, dan Axios Interceptors.  
 ## Buat file baru bernama ApiAuthFilter.php di dalam folder app/Filters/
@@ -834,8 +835,8 @@ class ApiAuthFilter implements FilterInterface
 
 ### test simulasi pengujian pembobolan database menggunakan aplikasi REST Client 
 
-![alt text](image-6.png)
+![alt text](image/image-6.png)
 
 ### Authorization: Bearer <deretan_kode_token_anda>
 
-![alt text](image-7.png)
+![alt text](image/image-7.png)
