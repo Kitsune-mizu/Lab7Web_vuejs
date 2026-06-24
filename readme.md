@@ -1,4 +1,21 @@
 # Pratikum 11-14 Folder LAB8_VUEJS
+## Struktur utama folder
+```
+lab8_vuejs/
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       ├── app.js
+│       └── components/
+│           ├── Home.js
+│           ├── Artikel.js
+|           ├── Login.js
+│           └── About.js  
+└── index.html
+```
+
+---
 # Praktikum 11: VueJS
 ## Struktur Direktory
 ```
